@@ -14,6 +14,12 @@
   <img src="./pix/translation.png" width="700">
 </p>
 
+## Rotation as a Matrix Operation
+<p float="left">
+  <img src="./pix/rotation-2.png" width="600">
+  <img src="./pix/rotation-1.png" width="200">
+</p>
+
 ## References
 * https://en.wikipedia.org/wiki/Trigonometric_functions
 * https://en.wikipedia.org/wiki/Right-hand_rule
