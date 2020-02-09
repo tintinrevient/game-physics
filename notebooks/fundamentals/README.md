@@ -9,6 +9,11 @@
 * u . (v x w) = v . (w x u) = w . (u x v)
 * u x (v x w) = (u . w)v - (u . v)w 
 
+## Translation as a Matrix Operation
+<p float="left">
+  <img src="./pix/translation.png" width="700">
+</p>
+
 ## References
 * https://en.wikipedia.org/wiki/Trigonometric_functions
 * https://en.wikipedia.org/wiki/Right-hand_rule
