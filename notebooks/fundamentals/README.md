@@ -16,8 +16,8 @@
 
 ## Rotation as a Matrix Operation
 <p float="left">
-  <img src="./pix/rotation-2.png" width="400">
-  <img src="./pix/rotation-1.png" width="300">
+  <img src="./pix/rotation-2.png" width="450">
+  <img src="./pix/rotation-1.png" width="250">
 </p>
 
 ## References
