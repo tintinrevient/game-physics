@@ -29,3 +29,7 @@
 * https://en.wikipedia.org/wiki/Trigonometric_functions
 * https://en.wikipedia.org/wiki/Right-hand_rule
 * https://en.wikipedia.org/wiki/Cross_product
+* https://en.wikipedia.org/wiki/Partial_derivative
+* https://en.wikipedia.org/wiki/Total_derivative
+* https://en.wikipedia.org/wiki/Scalar_field
+* https://en.wikipedia.org/wiki/Vector_field
