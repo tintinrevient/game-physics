@@ -20,6 +20,11 @@
   <img src="./pix/rotation-1.png" width="250">
 </p>
 
+## Definiteness of a Matrix
+<p float="left">
+  <img src="./pix/definiteness.png" width="700">
+</p>
+
 ## References
 * https://en.wikipedia.org/wiki/Trigonometric_functions
 * https://en.wikipedia.org/wiki/Right-hand_rule
