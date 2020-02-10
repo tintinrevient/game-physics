@@ -25,6 +25,16 @@
   <img src="./pix/definiteness.png" width="700">
 </p>
 
+## Scalar Field
+<p float="left">
+  <img src="./pix/scalar-field.png" width="700">
+</p>
+
+## Vector Field
+<p float="left">
+  <img src="./pix/vector-field.png" width="700">
+</p>
+
 ## References
 * https://en.wikipedia.org/wiki/Trigonometric_functions
 * https://en.wikipedia.org/wiki/Right-hand_rule
