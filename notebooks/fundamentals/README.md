@@ -43,3 +43,4 @@
 * https://en.wikipedia.org/wiki/Total_derivative
 * https://en.wikipedia.org/wiki/Scalar_field
 * https://en.wikipedia.org/wiki/Vector_field
+* https://en.wikipedia.org/wiki/Mechanical_energy
