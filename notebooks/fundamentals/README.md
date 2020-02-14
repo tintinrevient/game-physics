@@ -42,10 +42,10 @@
 
 * c = r Ω
 * dc/dt = r dΩ/dt
-* v = r w (direction of angular velocity w is determined by **right hand rule**) -> <span style='background-color: #FFFF00'>**v** = **w** x **r**</span>
+* v = r w (direction of angular velocity w is determined by **right hand rule**) -> <mark>**v** = **w** x **r**</mark>
 * dv/dt = r dw/dt
-* a<sub>t</sub> = r α (a<sub>t</sub> is tangential acceleration) -> <span style='background-color: #FFFF00'>**a<sub>t</sub>** = **α** x **r**</span>
-* a<sub>n</sub> = v<sup>2</sup>/r = r w<sup>2</sup> (a<sub>n</sub> is centripetal acceleration) -> <span style='background-color: #FFFF00'>**a<sub>n</sub>** = **w** x (**w** x **r**)</span>
+* a<sub>t</sub> = r α (a<sub>t</sub> is tangential acceleration) -> <mark>**a<sub>t</sub>** = **α** x **r**</mark>
+* a<sub>n</sub> = v<sup>2</sup>/r = r w<sup>2</sup> (a<sub>n</sub> is centripetal acceleration) -> <mark>**a<sub>n</sub>** = **w** x (**w** x **r**)</mark>
 
 <p float="left">
   <img src="./pix/linear-angular-velocity.png" width="700">
@@ -53,6 +53,18 @@
 
 <p float="left">
   <img src="./pix/tangential-centripetal-acceleration.png" width="700">
+</p>
+
+* **v<sub>R</sub>** = **v<sub>cg</sub>** + **v<sub>t</sub>** -> **v<sub>R</sub>** = **v<sub>cg</sub>** + (**w** x **r**)
+
+<p float="left">
+  <img src="./pix/relative-velocity.png" width="700">
+</p>
+
+* **a<sub>R</sub>** = **a<sub>cg</sub>** + **a<sub>n</sub>** + **a<sub>t</sub>** -> **a<sub>R</sub>** = **a<sub>cg</sub>** + (**w** x (**w** x **r**)) + (**α** x **r**)
+
+<p float="left">
+  <img src="./pix/relative-acceleration.png" width="700">
 </p>
 
 
