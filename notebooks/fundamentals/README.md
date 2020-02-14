@@ -67,6 +67,15 @@
   <img src="./pix/relative-acceleration.png" width="700">
 </p>
 
+## Quaternions
+<p float="left">
+  <img src="./pix/quaternions.png" width="700">
+</p>
+
+## Quaternions to describe Rotation
+<p float="left">
+  <img src="./pix/quaternion-rotation.png" width="700">
+</p>
 
 ## References
 * https://en.wikipedia.org/wiki/Trigonometric_functions
