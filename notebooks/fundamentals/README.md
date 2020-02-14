@@ -77,6 +77,11 @@
   <img src="./pix/quaternion-rotation.png" width="700">
 </p>
 
+## Analogs
+<p float="left">
+  <img src="./pix/analogs.png" width="700">
+</p>
+
 ## References
 * https://en.wikipedia.org/wiki/Trigonometric_functions
 * https://en.wikipedia.org/wiki/Right-hand_rule
