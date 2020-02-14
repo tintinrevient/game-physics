@@ -35,6 +35,27 @@
   <img src="./pix/vector-field.png" width="700">
 </p>
 
+## Angular Velocity - Rigid Body
+<p float="left">
+  <img src="./pix/circular-path.png" width="700">
+</p>
+
+* c = r Ω
+* dc/dt = r dΩ/dt
+* v = r w (direction of angular velocity w is determined by **right hand rule**) -> <mark>**v** = **w** x **r**</mark>
+* dv/dt = r dw/dt
+* a<sub>t</sub> = r α (a<sub>t</sub> is tangential acceleration) -> <mark>**a<sub>t</sub>** = **α** x **r**</mark>
+* a<sub>n</sub> = v<sup>2</sup>/r = r w<sup>2</sup> (a<sub>n</sub> is centripetal acceleration) -> <mark>**a<sub>n</sub>** = **w** x (**w** x **r**)</mark>
+
+<p float="left">
+  <img src="./pix/linear-angular-velocity.png" width="700">
+</p>
+
+<p float="left">
+  <img src="./pix/tangential-centripetal-acceleration.png" width="700">
+</p>
+
+
 ## References
 * https://en.wikipedia.org/wiki/Trigonometric_functions
 * https://en.wikipedia.org/wiki/Right-hand_rule
