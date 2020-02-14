@@ -84,6 +84,14 @@
 
 ## Moment of Inertia = Rotational Inertia
 <p float="left">
+  <img src="./pix/angular-momentum.png" width="700">
+</p>
+
+<p float="left">
+  <img src="./pix/mass.png" width="700">
+</p>
+
+<p float="left">
   <img src="./pix/moment-of-inertia.png" width="700">
 </p>
 
