@@ -104,6 +104,11 @@
   <img src="./pix/parallel-axis-theorem.png" width="700">
 </p>
 
+## Torque
+<p float="left">
+  <img src="./pix/torque.png" width="700">
+</p>
+
 ## References
 * https://en.wikipedia.org/wiki/Trigonometric_functions
 * https://en.wikipedia.org/wiki/Right-hand_rule
