@@ -95,6 +95,15 @@
   <img src="./pix/moment-of-inertia.png" width="700">
 </p>
 
+## Parallel Axis Theorem
+<p float="left">
+  <img src="./pix/transfer-of-axes.png" width="700">
+</p>
+
+<p float="left">
+  <img src="./pix/parallel-axis-theorem.png" width="700">
+</p>
+
 ## References
 * https://en.wikipedia.org/wiki/Trigonometric_functions
 * https://en.wikipedia.org/wiki/Right-hand_rule
