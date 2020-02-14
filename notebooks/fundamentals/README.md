@@ -109,6 +109,16 @@
   <img src="./pix/torque.png" width="700">
 </p>
 
+## Forces on Free Rigid Bodies
+<p float="left">
+  <img src="./pix/forces-on-free-rigid-body.png" width="700">
+</p>
+
+## Work done by Forces on Rigid Bodies
+<p float="left">
+  <img src="./pix/work.png" width="700">
+</p>
+
 ## References
 * https://en.wikipedia.org/wiki/Trigonometric_functions
 * https://en.wikipedia.org/wiki/Right-hand_rule
