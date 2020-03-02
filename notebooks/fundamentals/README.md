@@ -128,3 +128,4 @@
 * https://en.wikipedia.org/wiki/Scalar_field
 * https://en.wikipedia.org/wiki/Vector_field
 * https://en.wikipedia.org/wiki/Mechanical_energy
+* http://www.chrishecker.com/Rigid_Body_Dynamics
