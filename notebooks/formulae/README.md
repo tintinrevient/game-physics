@@ -157,6 +157,55 @@
   <img src="./pix/inequality-constraint.png" width="700">
 </p>
 
+## Continuum Mechanics
+
+### Local Deformation
+<p float="left">
+  <img src="./pix/local-deformation.png" width="700">
+</p>
+
+### Deformation Tensor
+<p float="left">
+  <img src="./pix/deformation-tensor-1.png" width="700">
+</p>
+<p float="left">
+  <img src="./pix/deformation-tensor-2.png" width="700">
+</p>
+<p float="left">
+  <img src="./pix/deformation-tensor-3.png" width="700">
+</p>
+
+### Infinitesimal Strain Tensor
+<p float="left">
+  <img src="./pix/infinitesimal-strain-tensor.png" width="700">
+</p>
+
+### Poisson's Ratio
+<p float="left">
+  <img src="./pix/poisson-ratio.png" width="700">
+</p>
+
+### Stress Tensor
+<p float="left">
+  <img src="./pix/stress-tensor.png" width="700">
+</p>
+
+### Elastic Moduli
+<p float="left">
+  <img src="./pix/elastic-moduli.png" width="700">
+</p>
+
+### Elastic Energy
+<p float="left">
+  <img src="./pix/elastic-energy.png" width="700">
+</p>
+
+### Dynamics of Elastic Material
+<p float="left">
+  <img src="./pix/elastic-material-dynamics.png" width="700">
+</p>
+
+
 ## References
 * https://en.wikipedia.org/wiki/Chain_rule
 
