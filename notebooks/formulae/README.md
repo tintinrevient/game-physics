@@ -152,7 +152,7 @@
   <img src="./pix/equality-constraint-2.png" width="700">
 </p>
 
-## Inequality Constraint
+### Inequality Constraint
 <p float="left">
   <img src="./pix/inequality-constraint.png" width="700">
 </p>
