@@ -139,6 +139,24 @@
   <img src="./pix/constraint-resolution-2.png" width="700">
 </p>
 
+## Position-based Dynamics
+<p float="left">
+  <img src="./pix/position-based-dynamics.png" width="700">
+</p>
+
+### Equality Constraint
+<p float="left">
+  <img src="./pix/equality-constraint-1.png" width="700">
+</p>
+<p float="left">
+  <img src="./pix/equality-constraint-2.png" width="700">
+</p>
+
+## Inequality Constraint
+<p float="left">
+  <img src="./pix/inequality-constraint.png" width="700">
+</p>
+
 ## References
 * https://en.wikipedia.org/wiki/Chain_rule
 
