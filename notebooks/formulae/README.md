@@ -96,5 +96,11 @@
   <img src="./pix/rigid-body-motion-2.png" width="450">
 </p>
 
+## Chain Rule
+<p float="left">
+  <img src="./pix/calculus-chain-rule.png" width="700">
+</p>
+
 ## References
+* https://en.wikipedia.org/wiki/Chain_rule
 
