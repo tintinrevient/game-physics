@@ -101,6 +101,44 @@
   <img src="./pix/calculus-chain-rule.png" width="700">
 </p>
 
+## Constraint Resolution
+
+### Velocity Constraint
+<p float="left">
+  <img src="./pix/velocity-constraint-1.png" width="700">
+</p>
+<p float="left">
+  <img src="./pix/velocity-constraint-2.png" width="700">
+</p>
+
+### Acceleration Constraint
+<p float="left">
+  <img src="./pix/acceleration-constraint.png" width="700">
+</p>
+
+### Constraint Force
+<p float="left">
+  <img src="./pix/constraint-force.png" width="700">
+</p>
+
+### Sequential Impulse
+<p float="left">
+  <img src="./pix/sequential-impulse.png" width="700">
+</p>
+
+### Generalized Holonomic Constraint
+<p float="left">
+  <img src="./pix/holonomic-constraint.png" width="700">
+</p>
+
+### Collision Resolution as Constraint Resolution
+<p float="left">
+  <img src="./pix/constraint-resolution-1.png" width="700">
+</p>
+<p float="left">
+  <img src="./pix/constraint-resolution-2.png" width="700">
+</p>
+
 ## References
 * https://en.wikipedia.org/wiki/Chain_rule
 
