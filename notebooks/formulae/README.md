@@ -157,7 +157,7 @@
   <img src="./pix/inequality-constraint.png" width="700">
 </p>
 
-## Continuum Mechanics
+## Soft Body
 
 ### Local Deformation
 <p float="left">
@@ -203,6 +203,45 @@
 ### Dynamics of Elastic Material
 <p float="left">
   <img src="./pix/elastic-material-dynamics.png" width="700">
+</p>
+
+## Fluid: Density Field vs. Velocity Field
+
+### Vector Field
+<p float="left">
+  <img src="./pix/fluid-velocity-field.png" width="700">
+</p>
+
+### Eulerian Description vs. Lagrangian Description
+<p float="left">
+  <img src="./pix/partial-and-total-derivatives.png" width="700">
+</p>
+
+### Incompressibility -> Mass Conservation Equation
+<p float="left">
+  <img src="./pix/mass-conservation-equation.png" width="700">
+</p>
+
+### Continuity Equation
+<p float="left">
+  <img src="./pix/continuity-equation.png" width="700">
+</p>
+
+## Fluid Dynamics
+
+### Soft Body Physics
+<p float="left">
+  <img src="./pix/fluid-dynamics.png" width="700">
+</p>
+
+### Incompressible Newtonian Fluid: Stress Tensor
+<p float="left">
+  <img src="./pix/incompressible-newtonian-fluid-stresses.png" width="700">
+</p>
+
+### Incompressible Newtonian Fluid: Stress-Strain Relations
+<p float="left">
+  <img src="./pix/incompressible-newtonian-fluid-stress-strain-relations-1.png" width="700">
 </p>
 
 
