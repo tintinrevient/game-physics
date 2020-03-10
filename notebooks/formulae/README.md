@@ -244,6 +244,15 @@
   <img src="./pix/incompressible-newtonian-fluid-stress-strain-relations-1.png" width="700">
 </p>
 
+<p float="left">
+  <img src="./pix/incompressible-newtonian-fluid-stress-strain-relations-2.png" width="700">
+</p>
+
+### Euler Equation
+<p float="left">
+  <img src="./pix/euler-equation.png" width="700">
+</p>
+
 
 ## References
 * https://en.wikipedia.org/wiki/Chain_rule
