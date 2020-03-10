@@ -205,9 +205,9 @@
   <img src="./pix/elastic-material-dynamics.png" width="700">
 </p>
 
-## Fluid: Density Field vs. Velocity Field
+## Fluid Physics
 
-### Vector Field
+### Velocity Field vs. Density Field
 <p float="left">
   <img src="./pix/fluid-velocity-field.png" width="700">
 </p>
