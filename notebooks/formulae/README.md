@@ -296,7 +296,7 @@
   <img src="./pix/linear-elasticity-2.png" width="700">
 </p>
 
-### Discrete Strain Tensor
+### Stress-Strain Relations
 <p float="left">
   <img src="./pix/discrete-strain-tensor-1.png" width="700">
 </p>
@@ -304,7 +304,6 @@
   <img src="./pix/discrete-strain-tensor-2.png" width="700">
 </p>
 
-### Stress-Strain Relations
 <p float="left">
   <img src="./pix/stress-strain-relations.png" width="700">
 </p>
