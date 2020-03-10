@@ -243,7 +243,6 @@
 <p float="left">
   <img src="./pix/incompressible-newtonian-fluid-stress-strain-relations-1.png" width="700">
 </p>
-
 <p float="left">
   <img src="./pix/incompressible-newtonian-fluid-stress-strain-relations-2.png" width="700">
 </p>
@@ -253,7 +252,73 @@
   <img src="./pix/euler-equation.png" width="700">
 </p>
 
+## Finite Element Method (FEM)
+
+### Eulerian (Space-fixed Meshes): Finite Difference Example
+<p float="left">
+  <img src="./pix/eulerian-finite-difference-1.png" width="700">
+</p>
+<p float="left">
+  <img src="./pix/eulerian-finite-difference-2.png" width="700">
+</p>
+
+### Lagrangian (Body-fixed Meshes): FEM Basis
+<p float="left">
+  <img src="./pix/lagrangian-fem-basis-1.png" width="700">
+</p>
+<p float="left">
+  <img src="./pix/lagrangian-fem-basis-2.png" width="700">
+</p>
+
+### Lagrangian (Body-fixed Meshes): Gradient
+<p float="left">
+  <img src="./pix/gradient-1.png" width="700">
+</p>
+<p float="left">
+  <img src="./pix/gradient-2.png" width="700">
+</p>
+
+### Lagrangian (Body-fixed Meshes): Linear Elasticity in FEM
+<p float="left">
+  <img src="./pix/linear-elasticity.png" width="700">
+</p>
+
+## Tetrahedral Meshes
+<p float="left">
+  <img src="./pix/tetrahedral-meshes.png" width="700">
+</p>
+
+### Linear Elasticity
+<p float="left">
+  <img src="./pix/linear-elasticity-1.png" width="700">
+</p>
+<p float="left">
+  <img src="./pix/linear-elasticity-2.png" width="700">
+</p>
+
+### Discrete Strain Tensor
+<p float="left">
+  <img src="./pix/discrete-strain-tensor-1.png" width="700">
+</p>
+<p float="left">
+  <img src="./pix/discrete-strain-tensor-2.png" width="700">
+</p>
+
+### Stress-Strain Relations
+<p float="left">
+  <img src="./pix/stress-strain-relations.png" width="700">
+</p>
+
+### Elastic Energy
+<p float="left">
+  <img src="./pix/elastic-energy-1.png" width="700">
+</p>
+
+### Elastic Force
+<p float="left">
+  <img src="./pix/elastic-force.png" width="700">
+</p>
 
 ## References
 * https://en.wikipedia.org/wiki/Chain_rule
-
+* https://en.wikipedia.org/wiki/Finite_element_method
