@@ -437,3 +437,4 @@
 * http://www.chrishecker.com/Rigid_Body_Dynamics
 * https://en.wikipedia.org/wiki/Chain_rule
 * https://en.wikipedia.org/wiki/Finite_element_method
+* http://graphics.cs.cmu.edu/courses/15-869/
