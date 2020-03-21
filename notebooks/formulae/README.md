@@ -185,18 +185,6 @@
   <img src="./pix/torque.png" width="700">
 </p>
 
-### Translation as a Matrix operation
-<p float="left">
-  <img src="./pix/translation-as-matrix-operation.png" width="700">
-</p>
-
-### Rotation as a Matrix operation
-<p float="left">
-  <img src="./pix/rotation-as-matrix-operation.png" width="450">
-</p>
-
-### Quaternion
-
 ### Analog
 <p float="left">
   <img src="./pix/analog-1.png" width="700">
