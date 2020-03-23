@@ -435,7 +435,7 @@
   <img src="./pix/hookes-law-2.png" width="700">
 </p>
 
-### Deformation d and Displacement p
+### Deformation u and Displacement p
 <p float="left">
   <img src="./pix/1d-1.png" width="700">
 </p>
@@ -459,6 +459,23 @@
 <p float="left">
   <img src="./pix/strain-3.png" width="700">
 </p>
+
+### Stress
+<p float="left">
+  <img src="./pix/stress-1.png" width="700">
+</p>
+<p float="left">
+  <img src="./pix/stress-2.png" width="700">
+</p>
+
+### Stress and Strain
+<p float="left">
+  <img src="./pix/voigt-notation.png" width="700">
+</p>
+<p float="left">
+  <img src="./pix/isotropic-materials.png" width="700">
+</p>
+
 
 ## References
 * https://en.wikipedia.org/wiki/Trigonometric_functions
