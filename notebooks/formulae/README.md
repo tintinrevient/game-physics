@@ -425,6 +425,41 @@
   <img src="./pix/elastic-force.png" width="700">
 </p>
 
+## Soft Body Dynamics
+
+### Hooke's Law
+<p float="left">
+  <img src="./pix/hookes-law-1.png" width="700">
+</p>
+<p float="left">
+  <img src="./pix/hookes-law-2.png" width="700">
+</p>
+
+### Deformation d and Displacement p
+<p float="left">
+  <img src="./pix/1d-1.png" width="700">
+</p>
+<p float="left">
+  <img src="./pix/1d-2.png" width="700">
+</p>
+<p float="left">
+  <img src="./pix/3d-1.png" width="700">
+</p>
+<p float="left">
+  <img src="./pix/3d-2.png" width="700">
+</p>
+
+### Strain
+<p float="left">
+  <img src="./pix/strain-1.png" width="700">
+</p>
+<p float="left">
+  <img src="./pix/strain-2.png" width="700">
+</p>
+<p float="left">
+  <img src="./pix/strain-3.png" width="700">
+</p>
+
 ## References
 * https://en.wikipedia.org/wiki/Trigonometric_functions
 * https://en.wikipedia.org/wiki/Right-hand_rule
@@ -437,3 +472,6 @@
 * http://www.chrishecker.com/Rigid_Body_Dynamics
 * https://en.wikipedia.org/wiki/Chain_rule
 * https://en.wikipedia.org/wiki/Finite_element_method
+* https://en.wikipedia.org/wiki/Soft-body_dynamics
+* http://graphics.cs.cmu.edu/courses/15-869/
+* https://en.wikipedia.org/wiki/Sparse_matrix
