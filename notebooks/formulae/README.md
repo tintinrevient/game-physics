@@ -476,6 +476,16 @@
   <img src="./pix/isotropic-materials.png" width="700">
 </p>
 
+### Discrete Strain
+<p float="left">
+  <img src="./pix/discrete-strain.png" width="700">
+</p>
+
+### Simulation Loop
+<p float="left">
+  <img src="./pix/simulation-loop.png" width="700">
+</p>
+
 
 ## References
 * https://en.wikipedia.org/wiki/Trigonometric_functions
