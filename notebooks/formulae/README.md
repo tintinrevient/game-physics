@@ -503,3 +503,5 @@
 * http://graphics.cs.cmu.edu/courses/15-869/
 * https://en.wikipedia.org/wiki/Sparse_matrix
 * https://en.wikipedia.org/wiki/Barycentric_coordinate_system
+* https://en.wikipedia.org/wiki/Level-set_method
+* https://en.wikipedia.org/wiki/Finite_difference
